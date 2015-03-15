@@ -1,0 +1,31 @@
+alias copy = "git clone"
+alias _ = "git status"
+alias _ = "git add"
+alias _ = "git commit"
+alias _ = "-m"
+alias _ = "-a"
+alias _ = "git push"
+alias _ = "git pull"
+alias _ = "origin"
+alias _ = "master"
+alias _ = "git checkout"
+alias _ = "git branch"
+alias _ = ""
+alias _ = ""
+alias _ = ""
+alias _ = ""
+alias _ = ""
+alias _ = ""
+alias copy gittish = "copy URL FOR GITTISH"
+
+
+
+Maybe make and alias for git
+you will have to replace this = $ ie Branch_name File_name Clone_url
+if you type in terminal man _ and it returns no manual entry it is free for me to use 
+go into git mode
+have an additional terminal tab open for only terminal commands
+Q&A within termanial Shaunalynn will send more
+run Gittish?
+Gittish style modes
+if gittish takes off then worry about social media, email etc
